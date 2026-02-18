@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/omega.xml'
+buildfile = '192.168.1.168/kodi/builds/build-addons/omega.xml'
 
 '''#####-----Videos File-----#####'''
 videos_url = 'https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/videos.txt'
